@@ -1,7 +1,7 @@
-# Turkish Runner 🏃‍♂️🇹🇷
+# Kurdish Runner 🏃‍♂️
 A fast‑paced **Infinite Runner** game built using **Phaser 3.90**, where the player must **collect specific items** to earn rewards while avoiding or ignoring everything else.
 
-Play the game here: **https://turkishrunner.netlify.app**
+
 
 ---
 
@@ -39,4 +39,4 @@ Your game will start on localhost.
 
 ---
 
-Enjoy playing **Turkish Runner**! 🏃‍♂️🔥
+Enjoy playing **Kurdish Runner**! 🏃‍♂️🔥
