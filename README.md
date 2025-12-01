@@ -1,7 +1,7 @@
 # Kurdish Runner 🏃‍♂️
 A fast‑paced **Infinite Runner** game built using **Phaser 3.90**, where the player must **collect specific items** to earn rewards while avoiding or ignoring everything else.
 
-
+play the game here:https://pradeeptask.netlify.app/
 
 ---
 
