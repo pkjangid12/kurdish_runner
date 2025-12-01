@@ -9,7 +9,7 @@ module.exports = {
   entry: path.resolve(__dirname, "./src/js/Main.js"), 
   devtool: "inline-source-map",
   output: {
-    path: path.resolve(__dirname, "./Turkish_Runner"),
+    path: path.resolve(__dirname, "./Kurdish_Runner"),
     filename: "bundle.js",
     // publicPath: "bharat",
     clean: true,
@@ -34,7 +34,7 @@ module.exports = {
         { from: "src/assets", to: "assets" },
         {
           from: "src/styles.css",
-          to: path.resolve(__dirname, "./Turkish_Runner"),
+          to: path.resolve(__dirname, "./Kurdish_Runner"),
         },
       ],
     }),
